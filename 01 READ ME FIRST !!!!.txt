@@ -1,0 +1,12 @@
+Student Information System in PHP
+
+**LOGIN DETAILS*
+
+Email : joyin.las.2000@gmail.com
+
+Password : joyin
+
+
+
+DON'T FORGET TO CREATE A DATABASE NAMING "studentinfosystem" AND IMPORT THE DATBASE SQL FILE (students.sql)
+WITHOUT THE DATABASE THE PROJECT WON'T RUN.
